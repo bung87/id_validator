@@ -9,7 +9,10 @@ Chinese Mainland Personal ID Card Validation
 ``` yaml
 # pubspec.yaml
 dependencies:
-  id_validator
+  # id_validator once this published to https://pub.dev
+  id_validator:
+    git:
+      url: https://github.com/bung87/id_validator
 ```
 
 ## Usage
