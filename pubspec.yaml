@@ -1,0 +1,17 @@
+name: id_validator
+description: Chinese Mainland Personal ID Card Validation.
+version: 0.0.1
+author: bung
+homepage: https://github.com/bung87/id_validator
+repository: https://github.com/bung87/id_validator
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+# dependencies:
+
+dev_dependencies:
+  test:
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
